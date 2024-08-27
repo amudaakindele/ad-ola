@@ -1,5 +1,6 @@
 
 
+
 const products = {
   seafood: [
     { name: 'Bonga Fish', price: '$22 for 5oz', image: 'img/bongafish.jpeg' },
@@ -143,7 +144,7 @@ const products = {
     { name: 'Fair and White Brightening soap',price:'$10.00', image:'img/Fair and white soap.png'},
     { name: 'Generic Caro white ',price:'$30.00', image:'img/Generic Carowhite 250ml.png'},
     { name: 'Carowhite soap ',price:'$12.00', image:'img/Carowhite soap .png'},
-    { name: 'Mega growth for hair',price:'$15.00', image:'img/Mega growth for hair.png'}
+    { name: 'Mega growth for hair',price:'$15.00', image:'img/Mega growth for hair.png'}
 
   ],
 };
